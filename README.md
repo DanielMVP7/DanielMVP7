@@ -10,14 +10,14 @@
 
   [![My Skills](https://skillicons.dev/icons?i=js,css,html,mysql&theme=light)](https://skillicons.dev)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMVP7&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMVP7&layout=compact)
 </div>
 
 ##
 
 <div>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMVP7&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMVP7&show_icons=true)
 </div>
 
 
